@@ -5,3 +5,6 @@ https://colab.sandbox.google.com/drive/1mBbhzXavuNxQtPm-IqYf_It-c1h2saWB?resourc
 
 ## 2. Vision Transformers (ViT)
 https://colab.sandbox.google.com/drive/1RtoeSkb225NTP9hkB3n3GI5sPysHkf6F?resourcekey=0-4tC8MOC9HQGS865S5fdBTg#scrollTo=nmVNZ23a634-
+
+## 3. CLIP: Contrastive Language Image Pre-training
+https://colab.sandbox.google.com/drive/1-a1SriXhRzcnH8Egb1_B3YIqquydlFi9?resourcekey=0-swtxpZG24oYkdBKO6oBWDg#scrollTo=_RCWR_nrL-_K
