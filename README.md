@@ -8,3 +8,6 @@ https://colab.sandbox.google.com/drive/1RtoeSkb225NTP9hkB3n3GI5sPysHkf6F?resourc
 
 ## 3. CLIP: Contrastive Language Image Pre-training
 https://colab.sandbox.google.com/drive/1-a1SriXhRzcnH8Egb1_B3YIqquydlFi9?resourcekey=0-swtxpZG24oYkdBKO6oBWDg#scrollTo=_RCWR_nrL-_K
+
+## 4. BLIP Architecture Implementation from scratch [PyTorch]
+https://www.kaggle.com/code/shivangitomar/blip-architecture-implementation-pytorch
