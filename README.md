@@ -11,3 +11,6 @@ https://colab.sandbox.google.com/drive/1-a1SriXhRzcnH8Egb1_B3YIqquydlFi9?resourc
 
 ## 4. BLIP Architecture Implementation from scratch [PyTorch]
 https://www.kaggle.com/code/shivangitomar/blip-architecture-implementation-pytorch
+
+## 5. Knowledge Distillation Learning [PyTorch]
+https://colab.research.google.com/drive/1auRrSacj6IdreMtuQavKLd-MnYAErlkD#scrollTo=Xv1CdOpMsekx
