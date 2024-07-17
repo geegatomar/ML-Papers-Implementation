@@ -14,3 +14,7 @@ https://www.kaggle.com/code/shivangitomar/blip-architecture-implementation-pytor
 
 ## 5. Knowledge Distillation Learning [PyTorch]
 https://colab.research.google.com/drive/1auRrSacj6IdreMtuQavKLd-MnYAErlkD#scrollTo=Xv1CdOpMsekx
+
+## 6. Distilling DistilBERT with Knowledge Distillation [PyTorch]
+Training on the MLM task.<br>
+https://www.kaggle.com/code/shivangitomar/distilling-distilbert-knowledge-distillation/
