@@ -1,4 +1,4 @@
-# ML Papers Implementation (PyTorch)
+# ML Papers Implementation [PyTorch]
 
 ## 1. Transformers - Attention Is All You Need
 https://colab.sandbox.google.com/drive/1mBbhzXavuNxQtPm-IqYf_It-c1h2saWB?resourcekey=0-u7MtX0P4Pm8CTInnkTg45A#scrollTo=H8GwTJa64TtD
@@ -9,12 +9,13 @@ https://colab.sandbox.google.com/drive/1RtoeSkb225NTP9hkB3n3GI5sPysHkf6F?resourc
 ## 3. CLIP: Contrastive Language Image Pre-training
 https://colab.sandbox.google.com/drive/1-a1SriXhRzcnH8Egb1_B3YIqquydlFi9?resourcekey=0-swtxpZG24oYkdBKO6oBWDg#scrollTo=_RCWR_nrL-_K
 
-## 4. BLIP Architecture Implementation from scratch [PyTorch]
+## 4. BLIP Architecture Implementation from scratch
 https://www.kaggle.com/code/shivangitomar/blip-architecture-implementation-pytorch
 
-## 5. Knowledge Distillation Learning [PyTorch]
-https://colab.research.google.com/drive/1auRrSacj6IdreMtuQavKLd-MnYAErlkD#scrollTo=Xv1CdOpMsekx
+## 5. Knowledge Distillation Learning
+https://colab.research.google.com/drive/1auRrSacj6IdreMtuQavKLd-MnYAErlkD#scrollTo=Xv1CdOpMsekx <br>
+https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html
 
-## 6. Distilling DistilBERT with Knowledge Distillation [PyTorch]
+## 6. Distilling DistilBERT with Knowledge Distillation
 Training on the MLM task.<br>
 https://www.kaggle.com/code/shivangitomar/distilling-distilbert-knowledge-distillation/
