@@ -22,3 +22,6 @@ https://www.kaggle.com/code/shivangitomar/distilling-distilbert-knowledge-distil
 
 ## 7. Multi-lingual and Cross-lingual [Only Notes]
 https://colab.sandbox.google.com/drive/1YKPtY2gGUllD_3QquPEyLZXtpqXw80Vz#scrollTo=dGUQob-Xkyfp
+
+## 8. Switch Transformers and Mixture of Experts (MoE)
+https://colab.sandbox.google.com/drive/1DbK2mvnV_B8RCZUP4xSg5u3k1jZHK9FQ#scrollTo=mMmPVLg_vekY
