@@ -20,5 +20,5 @@ https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html
 Training on the MLM task.<br>
 https://www.kaggle.com/code/shivangitomar/distilling-distilbert-knowledge-distillation/
 
-## 7. Multi-lingual and Cross-lingual Notes
+## 7. Multi-lingual and Cross-lingual [Only Notes]
 https://colab.sandbox.google.com/drive/1YKPtY2gGUllD_3QquPEyLZXtpqXw80Vz#scrollTo=dGUQob-Xkyfp
