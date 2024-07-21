@@ -25,3 +25,6 @@ https://colab.sandbox.google.com/drive/1YKPtY2gGUllD_3QquPEyLZXtpqXw80Vz#scrollT
 
 ## 8. Switch Transformers and Mixture of Experts (MoE)
 https://colab.sandbox.google.com/drive/1DbK2mvnV_B8RCZUP4xSg5u3k1jZHK9FQ#scrollTo=mMmPVLg_vekY
+
+## 9. LoRA: Low Rank Adaptation
+https://colab.sandbox.google.com/drive/1XcsZQqyCspq7iTVv0eL0VRUiB-JD__IR#scrollTo=7Lxc03fVHZN4
