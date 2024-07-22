@@ -28,3 +28,7 @@ https://colab.sandbox.google.com/drive/1DbK2mvnV_B8RCZUP4xSg5u3k1jZHK9FQ#scrollT
 
 ## 9. LoRA: Low Rank Adaptation
 https://colab.sandbox.google.com/drive/1XcsZQqyCspq7iTVv0eL0VRUiB-JD__IR#scrollTo=7Lxc03fVHZN4
+
+## 10. QLoRA: Quantized and Low Rank Adaptation
+Part 1: https://colab.research.google.com/drive/1LpernMHyHpHX7KEm8JAXEaY79eCWsDU-?usp=sharing </br>
+Part 2: TODO
