@@ -1,4 +1,4 @@
-# ML Papers Implementation [PyTorch]
+# ML Papers Implementation & Learnings [PyTorch]
 
 ## 1. Transformers - Attention Is All You Need
 https://colab.sandbox.google.com/drive/1mBbhzXavuNxQtPm-IqYf_It-c1h2saWB?resourcekey=0-u7MtX0P4Pm8CTInnkTg45A#scrollTo=H8GwTJa64TtD
@@ -32,4 +32,4 @@ https://colab.sandbox.google.com/drive/1XcsZQqyCspq7iTVv0eL0VRUiB-JD__IR#scrollT
 ## 10. QLoRA: Quantized and Low Rank Adaptation
 Part 1: https://colab.research.google.com/drive/1LpernMHyHpHX7KEm8JAXEaY79eCWsDU-?usp=sharing </br>
 Part 2: https://colab.research.google.com/drive/1AXajsrPSDU4APQaSJ2qDGR4KQF9oNk40?usp=sharing </br>
-Part 3: TODO
+Part 3: https://www.kaggle.com/code/shivangitomar/qlora-part-3/
