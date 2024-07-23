@@ -33,3 +33,6 @@ https://colab.sandbox.google.com/drive/1XcsZQqyCspq7iTVv0eL0VRUiB-JD__IR#scrollT
 Part 1: https://colab.research.google.com/drive/1LpernMHyHpHX7KEm8JAXEaY79eCWsDU-?usp=sharing </br>
 Part 2: https://colab.research.google.com/drive/1AXajsrPSDU4APQaSJ2qDGR4KQF9oNk40?usp=sharing </br>
 Part 3: https://www.kaggle.com/code/shivangitomar/qlora-part-3/
+
+## 11. Training on single GPU techniques
+https://www.kaggle.com/code/shivangitomar/understanding-gpu-training-of-llms/
