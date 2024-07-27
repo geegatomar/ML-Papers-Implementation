@@ -36,3 +36,7 @@ Part 3: https://www.kaggle.com/code/shivangitomar/qlora-part-3/
 
 ## 11. Training on single GPU techniques
 https://www.kaggle.com/code/shivangitomar/understanding-gpu-training-of-llms/
+
+## 12. CM3 and RA-CM3
+CM3 (Causal Masked Multimodal Language model) and RA-CM3 (Retrieval Augmented CM3) </br>
+https://colab.sandbox.google.com/drive/1cyw-UZ2yATLlZeT_QGe6mL3tw-qfdJVC#scrollTo=OUHu8_noK_sD
