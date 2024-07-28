@@ -43,3 +43,6 @@ https://colab.sandbox.google.com/drive/1cyw-UZ2yATLlZeT_QGe6mL3tw-qfdJVC#scrollT
 
 ## 13. SSMs and MAMBA Notes
 https://colab.sandbox.google.com/drive/1Dkt_dT3iCW5X-Qs-awbhzEnmBL4MfcJL#scrollTo=uHsa8gg_mxCP
+
+## 14. JAX Intro Notes
+https://colab.research.google.com/drive/1AwxB7s54Xl8gEzS_tGXUFDaQVTFkMfkm?usp=sharing
