@@ -41,11 +41,11 @@ https://www.kaggle.com/code/shivangitomar/understanding-gpu-training-of-llms/
 CM3 (Causal Masked Multimodal Language model) and RA-CM3 (Retrieval Augmented CM3) </br>
 https://colab.sandbox.google.com/drive/1cyw-UZ2yATLlZeT_QGe6mL3tw-qfdJVC#scrollTo=OUHu8_noK_sD
 
-## 13. Multimodal ML Notes (CMU Lectures)
-https://colab.sandbox.google.com/drive/1uDMZB01Vzg3fYHdEsGyWeY4ZNOYgc-yW?resourcekey=0-0mCkYo-Rxz9hPweYnNFT9g#scrollTo=3aT-3BEzJn0J
-
 ## 13. SSMs and MAMBA Notes
 https://colab.sandbox.google.com/drive/1Dkt_dT3iCW5X-Qs-awbhzEnmBL4MfcJL#scrollTo=uHsa8gg_mxCP
 
 ## 14. JAX Intro Notes
 https://colab.research.google.com/drive/1AwxB7s54Xl8gEzS_tGXUFDaQVTFkMfkm?usp=sharing
+
+## 15. Multimodal ML Notes (CMU Lectures)
+https://colab.sandbox.google.com/drive/1uDMZB01Vzg3fYHdEsGyWeY4ZNOYgc-yW?resourcekey=0-0mCkYo-Rxz9hPweYnNFT9g#scrollTo=3aT-3BEzJn0J
