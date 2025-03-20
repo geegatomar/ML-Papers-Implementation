@@ -49,3 +49,9 @@ https://colab.research.google.com/drive/1AwxB7s54Xl8gEzS_tGXUFDaQVTFkMfkm?usp=sh
 
 ## 15. Multimodal ML Notes (CMU Lectures)
 https://colab.sandbox.google.com/drive/1uDMZB01Vzg3fYHdEsGyWeY4ZNOYgc-yW?resourcekey=0-0mCkYo-Rxz9hPweYnNFT9g#scrollTo=3aT-3BEzJn0J
+
+## 16. Computer Vision, VLMs, Video-LMMs and Video Understanding
+- Face recognition, RNN+CNN for videos: https://colab.sandbox.google.com/drive/1WEwTaDLFKJN7XZG7vjAizsU04Ak4pSHE?resourcekey=0-ng-jMUjCpxRRE5bvPlM0Pw#scrollTo=dtTXu7hP7wq3
+- Notes: https://docs.google.com/document/d/1KDZtzYWEj4irsjsN7WDElcAmT60V14qGIqJ-cvsZBI0/edit?tab=t.0
+- Coding Multimodal (Vision) Language Model [PaliGemma] from scratch: TODO
+- 
