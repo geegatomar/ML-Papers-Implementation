@@ -1,5 +1,9 @@
 # ML Papers Implementation & Learnings [PyTorch]
 
+All Notes docs:
+1. https://docs.google.com/document/d/1KDZtzYWEj4irsjsN7WDElcAmT60V14qGIqJ-cvsZBI0/edit?tab=t.0#heading=h.18bljl7mibm8
+2. https://docs.google.com/document/d/1BEZ6lSBq-jI-LzT9Qrc0d1ILGENKjLlCz5Mai6UvEzk/edit?resourcekey=0-B05iYKqr8CEqIuUrHy8f0w&tab=t.0
+
 ## 1. Transformers - Attention Is All You Need
 https://colab.sandbox.google.com/drive/1mBbhzXavuNxQtPm-IqYf_It-c1h2saWB?resourcekey=0-u7MtX0P4Pm8CTInnkTg45A#scrollTo=H8GwTJa64TtD
 
